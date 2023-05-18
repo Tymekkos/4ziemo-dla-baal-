@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680250813 source:z:\cpp\szyfry3103\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
